@@ -1,6 +1,6 @@
 <?php 
 define('LINE_API',"https://notify-api.line.me/api/notify");
-define('LINE_TOKEN','my8hqMR5vW0jvVB2FHJ7qC5RbMaAfZWrqWTDsnqDbmL');
+define('LINE_TOKEN','wxxlsr1vVDwAY60I9WP4uh0m2gnnctmnwhREC7oSzm5');
 
 function notify_message($message){
 
